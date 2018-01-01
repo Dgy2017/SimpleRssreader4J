@@ -5,5 +5,5 @@
 *	myeclipse
 *	maven
 *	java
-
+adfasdf
 ###使用这个做了一个名为miner的阅读器，现在正在完善中
